@@ -1,0 +1,11 @@
+error[0m: extra argument given for parameter list '(UInt64)' in call
+ ==> F:\huawei_ICT\exercise\src\main.cj:5:12:
+  | 
+5 |     println("请输入数据：", end = "?????")
+  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ expected 1 argument, found 2
+  | 
+note[0m: found candidate
+   ==> (package std.core)print.cj:261:13:
+
+1 error generated, 1 error printed.
+Error: failed to compile package `exercise`, return code is 1

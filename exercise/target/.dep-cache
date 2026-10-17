@@ -1,0 +1,16 @@
+{
+  "bin": {},
+  "pkg-build": {
+    "F:\\huawei_ICT\\exercise\\src": {
+      "package": "exercise",
+      "isMacro": false,
+      "accessLevel": "public",
+      "timeStamp": 1792215039,
+      "dependencies": [],
+      "std-dependencies": [],
+      "testUsed": false,
+      "mockUsed": false
+    }
+  },
+  "pkg-test": {}
+}

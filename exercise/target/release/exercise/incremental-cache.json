@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "exercise": {
+      "rootPackageName": "exercise",
+      "fileNameHash": "150251244966188279",
+      "timeStamp": 1792220449,
+      "isBuilt": false,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "775301847329898774",
+  "rootPackageName": "exercise"
+}
